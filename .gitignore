@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Databases
+chroma_data/
+neo4j_data/
+
+# Environment Variables
+.env
